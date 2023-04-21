@@ -1,5 +1,6 @@
 # Load Libraries ----
-library(tidyverse)
+library(aplot)
+library(gapminder)
 library(ggstance)
 library(patchwork)
-library(aplot)
+library(tidyverse)

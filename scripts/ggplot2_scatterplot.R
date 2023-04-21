@@ -1,6 +1,3 @@
-library(gapminder)
-library(tidyverse)
-
 View(gapminder)
 
 # Plot 1 ----
